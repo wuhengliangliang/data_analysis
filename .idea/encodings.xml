@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/Data_clean/Data1.csv" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Data_clean/shuju.csv" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/company_data/dataAnalyst_sql.csv" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/可视化/DataAnalyst.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/建模对数据进行拟合/附件1-凸轮边缘曲线.xlsx" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/词云图/demo.txt" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

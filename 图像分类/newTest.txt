@@ -1,0 +1,4 @@
+head-phones\101_0073.jpg	11
+computer-mouse\047_0028.jpg	7
+binoculars\012_0028.jpg	1
+palm-pilot\153_0028.jpg	13
